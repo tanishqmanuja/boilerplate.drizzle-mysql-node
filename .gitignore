@@ -1,0 +1,10 @@
+# Deps
+node_modules
+
+# Drizzle
+drizzle
+
+# Env
+.env
+.env.*
+!.env.sample
